@@ -1,0 +1,27 @@
+ swap file by the name ".6-multiple_permissions.swp"
+          owned by: root   dated: Fri Oct 06 17:37:01 2023
+         file name: /alx-system_engineering-devops/0x01-shell_permis
+sions/6-multiple_permissions
+          modified: no
+         user name: root   host name: e54056ccbc26
+        process ID: 577 (STILL RUNNING)
+While opening file "6-multiple_permissions"
+             dated: Fri Oct 06 19:11:37 2023
+      NEWER than swap file!
+
+(1) Another program may be editing the same file.  If this is the ca
+se,
+    be careful not to end up with two different instances of the sam
+e
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r 6-multiple_permis
+sions"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file ".6-multiple_permi
+ssions.swp"
+    to avoid this message.
+
+Swap file ".6-multiple_permissions.swp" already exists!
+[O]pen Read-Only, (E)dit anyway, (R)ecover, (Q)uit, (A)bort: 
+(e
